@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\play_ground\play_ground\bin\Debug\play_ground.exe.config
+c:\users\user\documents\visual studio 2015\Projects\play_ground\play_ground\bin\Debug\play_ground.exe
+c:\users\user\documents\visual studio 2015\Projects\play_ground\play_ground\bin\Debug\play_ground.pdb
+c:\users\user\documents\visual studio 2015\Projects\play_ground\play_ground\obj\Debug\play_ground.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\play_ground\play_ground\obj\Debug\play_ground.exe
+c:\users\user\documents\visual studio 2015\Projects\play_ground\play_ground\obj\Debug\play_ground.pdb
